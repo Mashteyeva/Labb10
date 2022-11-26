@@ -1,5 +1,5 @@
 # Labb10
-Tolkyn
+
 //SPDX-License-Identifier: MIT
 
 
